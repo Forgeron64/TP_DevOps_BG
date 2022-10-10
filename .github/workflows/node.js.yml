@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest    
     defaults:
        run:
-         working-directory: 'my-app/node_modules'
+         working-directory: 'TP_DevOps_BG/my-app/'
 
     strategy:
       matrix:
